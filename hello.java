@@ -4,3 +4,4 @@ class hello{
         System.out.println("OK");
     }
 }
+// git remote set-url origin https://github.com/NandiiniiRawatt/myFirstGit
